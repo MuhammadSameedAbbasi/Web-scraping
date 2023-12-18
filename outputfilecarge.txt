@@ -1,42 +1,393 @@
-Three Lines Group of Companies||Location : 104, Al Khabaisi Bldg, Al Khabaisi Area||City : Dubai,  UAE||04-2387880
-Frontline Logistics||Location : Warehouse 2, 26th Street, Al Marabea Road, Al Quoz 3||City : Dubai,  UAE||04-8866685
-Clever Freight Loading and Unloading LLC||Location : M 44, Arabilla Bldg, Hor Al Anz East, Deira||City : Dubai,  UAE||04-2516651
-Tas International Clearing and Forwarding Co LLC||Location : 304, Tameem Bldg, Near Immigration Signal, King Abdul Aziz St, Abu Shagara||City : Sharjah,  UAE||06-5551858
-Advanced Cargo and Shipping LLC||Location : 403, Shipping Tower, Opposite Port Rashid, Al Mina Road, Bur Dubai||City : Dubai,  UAE||04-3938510
-Alpha Ocean Shipping LLC||Location : 301, Shipping Tower, Al Mina Road, Opp Port Rashid, Bur Dubai||City : Dubai,  UAE||04-3966159
-Merit Freight Systems Company LLC||Location : Office 6, Opp Dubai Municipality, Karama||City : Dubai,  UAE||04-3964882
-Oceanfront Shipping LLC||Location : 4M, Al Kifaf Commercial Bldg, Opp Burjuman, Karama||City : Dubai,  UAE||04-3577708
-EGT Shipping And Clearing||Location : Warehouse 9,10, Doha Street, Al Qusais Industrial Area 1||City : Dubai,  UAE||04-2959966
-Blue Pearl Logistics LLC||Location : 114, Near Dutco Group, Jebel Ali Industrial Area 1||City : Dubai,  UAE||04-2207999
-Devcon Shipping||Location : M-14, Mussafah||City : Abu Dhabi,  UAE||02-6440117/ 6440139
-Three Lines Group of Companies||Location : 104, Al Khabaisi Bldg, Al Khabaisi Area||City : Dubai,  UAE||04-2387880
-Frontline Logistics||Location : Warehouse 2, 26th Street, Al Marabea Road, Al Quoz 3||City : Dubai,  UAE||04-8866685
-Clever Freight Loading and Unloading LLC||Location : M 44, Arabilla Bldg, Hor Al Anz East, Deira||City : Dubai,  UAE||04-2516651
-Tas International Clearing and Forwarding Co LLC||Location : 304, Tameem Bldg, Near Immigration Signal, King Abdul Aziz St, Abu Shagara||City : Sharjah,  UAE||06-5551858
-Advanced Cargo and Shipping LLC||Location : 403, Shipping Tower, Opposite Port Rashid, Al Mina Road, Bur Dubai||City : Dubai,  UAE||04-3938510
-Alpha Ocean Shipping LLC||Location : 301, Shipping Tower, Al Mina Road, Opp Port Rashid, Bur Dubai||City : Dubai,  UAE||04-3966159
-Merit Freight Systems Company LLC||Location : Office 6, Opp Dubai Municipality, Karama||City : Dubai,  UAE||04-3964882
-Oceanfront Shipping LLC||Location : 4M, Al Kifaf Commercial Bldg, Opp Burjuman, Karama||City : Dubai,  UAE||04-3577708
-EGT Shipping And Clearing||Location : Warehouse 9,10, Doha Street, Al Qusais Industrial Area 1||City : Dubai,  UAE||04-2959966
-Blue Pearl Logistics LLC||Location : 114, Near Dutco Group, Jebel Ali Industrial Area 1||City : Dubai,  UAE||04-2207999
-Devcon Shipping||Location : M-14, Mussafah||City : Abu Dhabi,  UAE||02-6440117/ 6440139
-Green Way Cargo||Three Lines Group of Companies||Location : 104, Al Khabaisi Bldg, Al Khabaisi Area||City : Dubai,  UAE||04-2387880
-Frontline Logistics||Location : Warehouse 2, 26th Street, Al Marabea Road, Al Quoz 3||City : Dubai,  UAE||04-8866685
-Clever Freight Loading and Unloading LLC||Location : M 44, Arabilla Bldg, Hor Al Anz East, Deira||City : Dubai,  UAE||04-2516651
-Tas International Clearing and Forwarding Co LLC||Location : 304, Tameem Bldg, Near Immigration Signal, King Abdul Aziz St, Abu Shagara||City : Sharjah,  UAE||06-5551858
-Advanced Cargo and Shipping LLC||Location : 403, Shipping Tower, Opposite Port Rashid, Al Mina Road, Bur Dubai||City : Dubai,  UAE||04-3938510
-Alpha Ocean Shipping LLC||Location : 301, Shipping Tower, Al Mina Road, Opp Port Rashid, Bur Dubai||City : Dubai,  UAE||04-3966159
-Merit Freight Systems Company LLC||Location : Office 6, Opp Dubai Municipality, Karama||City : Dubai,  UAE||04-3964882
-Oceanfront Shipping LLC||Location : 4M, Al Kifaf Commercial Bldg, Opp Burjuman, Karama||City : Dubai,  UAE||04-3577708
-EGT Shipping And Clearing||Location : Warehouse 9,10, Doha Street, Al Qusais Industrial Area 1||City : Dubai,  UAE||04-2959966
-Blue Pearl Logistics LLC||Location : 114, Near Dutco Group, Jebel Ali Industrial Area 1||City : Dubai,  UAE||04-2207999
-Devcon Shipping||Location : M-14, Mussafah||City : Abu Dhabi,  UAE||02-6440117/ 6440139
-Green Way Cargo||City : Dubai,  UAE||04-5644270
-Ardian Global Express LLC||Location : Warehouse 4, Near Abu Baker Al Siddiqi Metro, Al Khabaisi, Deira||City : Dubai,  UAE||04-3971226
-Abbas Jum Clearing and Forwarding LLC||Location : Bhnd Mini Punjab Rest, Al Fahidi St, Bur Dubai||City : Dubai,  UAE||04-3520082
-Freightman Global Logistics LLC||Location : Office 26, Al fikree Building, Opposite Al Gurair Bus Station, Bur Dubai||City : Dubai,  UAE||04-3577897
-A M A Freight International LLC||City : Dubai,  UAE||04-2714044
-A R International General Trading||Location : 604, Ambergem Tower, Shk Khalifa Rd||City : Ajman,  UAE||06-7450844
-ABC Freight Systems FZE||Location : SAIF Zone||City : Sharjah,  UAE||06-5529243
-Abeer Clearing Establishment||Location : Bhnd Dunia Finance, Hamdan St||City : Abu Dhabi,  UAE||02-6728110
-Aboud International Cargo LLC||Location : Deira||City : Dubai,  UAE||04-2667712
+Three Lines Group of Companies|Location : 104, Al Khabaisi Bldg, Al Khabaisi Area|City : Dubai,  UAE|04-2387880
+Frontline Logistics|Location : Warehouse 2, 26th Street, Al Marabea Road, Al Quoz 3|City : Dubai,  UAE|04-8866685
+Clever Freight Loading and Unloading LLC|Location : M 44, Arabilla Bldg, Hor Al Anz East, Deira|City : Dubai,  UAE|04-2516651
+Tas International Clearing and Forwarding Co LLC|Location : 304, Tameem Bldg, Near Immigration Signal, King Abdul Aziz St, Abu Shagara|City : Sharjah,  UAE|06-5551858
+Advanced Cargo and Shipping LLC|Location : 403, Shipping Tower, Opposite Port Rashid, Al Mina Road, Bur Dubai|City : Dubai,  UAE|04-3938510
+Alpha Ocean Shipping LLC|Location : 301, Shipping Tower, Al Mina Road, Opp Port Rashid, Bur Dubai|City : Dubai,  UAE|04-3966159
+Merit Freight Systems Company LLC|Location : Office 6, Opp Dubai Municipality, Karama|City : Dubai,  UAE|04-3964882
+Oceanfront Shipping LLC|Location : 4M, Al Kifaf Commercial Bldg, Opp Burjuman, Karama|City : Dubai,  UAE|04-3577708
+EGT Shipping And Clearing|Location : Warehouse 9,10, Doha Street, Al Qusais Industrial Area 1|City : Dubai,  UAE|04-2959966
+Blue Pearl Logistics LLC|Location : 114, Near Dutco Group, Jebel Ali Industrial Area 1|City : Dubai,  UAE|04-2207999
+Devcon Shipping|Location : M-14, Mussafah|City : Abu Dhabi,  UAE|02-6440117/ 6440139
+Green Way Cargo|City : Dubai,  UAE|04-5644270
+Ardian Global Express LLC|Location : Warehouse 4, Near Abu Baker Al Siddiqi Metro, Al Khabaisi, Deira|City : Dubai,  UAE|04-3971226
+Abbas Jum Clearing and Forwarding LLC|Location : Bhnd Mini Punjab Rest, Al Fahidi St, Bur Dubai|City : Dubai,  UAE|04-3520082
+Freightman Global Logistics LLC|Location : Office 26, Al fikree Building, Opposite Al Gurair Bus Station, Bur Dubai|City : Dubai,  UAE|04-3577897
+A M A Freight International LLC|City : Dubai,  UAE|04-2714044
+A R International General Trading|Location : 604, Ambergem Tower, Shk Khalifa Rd|City : Ajman,  UAE|06-7450844
+ABC Freight Systems FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5529243
+Abeer Clearing Establishment|Location : Bhnd Dunia Finance, Hamdan St|City : Abu Dhabi,  UAE|02-6728110
+Aboud International Cargo LLC|Location : Deira|City : Dubai,  UAE|04-2667712
+Abrao Shipping Services LLC|Location : 2602, Burj Al Salam Tower, Trade Centre, Sheik Zayed Road|City : Dubai,  UAE|04-3351055
+Abu Dhabi Shipping Agency (ADSA)|Location : G & M Flr, Salem Saif Saqer Al Moherbie Bldg, TCA|City : Abu Dhabi,  UAE|02-6449100
+ACE Shipping and Logistics Services|Location : Al Qusais Indl Area 1|City : Dubai,  UAE|04-2677735
+Actco Gulf Freight LLC|Location : 3rd Flr, Mohebi Center Bldg, Al Fahidi St, Bur Dubai|City : Dubai,  UAE|04-3533992
+Acute Logistics LLC|Location : 224, Abdullah Saeed Bldg, Damascus St, Al Qusais|City : Dubai,  UAE|04-2593236
+Adeson Freight Services|Location : G Flr, Moopan's Clinic Bldg, Naif Rd, Deira|City : Dubai,  UAE|04-2219020
+ADSO LLC|Location : Behind NBAD, Next to British Council, Khalidiya Street|City : Abu Dhabi,  UAE|02-6673775
+ADSO LLC.|Location : South Zone, Jebel Ali|City : Jebel Ali,  UAE|04-8860404
+Aeon Shipping LLC|Location : Warehouse 14, 10 Sana’a Road, Inland Customs Depot, Ras Al Khor 1|City : Dubai,  UAE|050-2647261
+Aero Modern Shipping Services LLC|City : Dubai,  UAE|04-3968841
+Afex Line Cargo LLC|Location : Near Belhasa Project, Ras Al Khor|City : Dubai,  UAE|04-3200524
+AGN Freight LLC|Location : Office 205, FG5, DAFZA|City : Dubai,  UAE|04-2993407
+Ahmed Saleh Packing|Location : Al Banna W/H, Bhnd Hertz Rent A Car, Al Ramool, Rashidiya|City : Dubai,  UAE|04-2854000
+Air Cargo Trader LLC|Location : 2033, Cargo Agents Bldg, Dubai Cargo Village|City : Dubai,  UAE|04-2868584
+Aiwa Logistics LLC|Location : 589, Elite Business Centre, Al Barsha|City : Dubai,  UAE|056-7759294
+Al Ayaam Trading Establishment|Location : 2, Al Khalafi Bldg, Near Hamarain Centre, Al Muraqabat Rd|City : Dubai,  UAE|04-2690732
+Al Azaan Freight Services|Location : Office 11, X2 Building, SAIF Zone|City : Sharjah,  UAE|06-5528070
+Al Futtaim Logistics LLC|Location : Between 5 & 6 R/A, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-2822144
+Al Humaidi International Services|Location : Opp Hyatt Regency, Near Gold Souk, Deira|City : Dubai,  UAE|04-2726870
+Al Jazeerah Freight Forwarding FZE|City : Sharjah,  UAE|06-5528669
+Al Khat Al Thahabi Cargo|Location : Deira|City : Dubai,  UAE|04-2366779
+Al Muhallab Cargo LLC|Location : 4, Sh Hamdan Bldg, Khabisi Rd, Deira|City : Dubai,  UAE|04-2977169
+Al Naboodah Cargo Centre LLC|Location : Al Masaood Tower, Airport Road, Deira|City : Dubai,  UAE|04-2504888
+Al Qeyadah Cargo and Clearing LLC|Location : 212, Daira Tower, Near Baniyas Square Station, Deira|City : Dubai,  UAE|04-2343000
+Al Rai Logistica UAE LLC|City : Dubai,  UAE|04-7034777
+Al Robban Shipping and Freight Services LLC|Location : M 06, Al Sharaifi Centre, Zabeel Rd, Karama|City : Dubai,  UAE|04-3968444
+Al Sahal Shipping and Clrg Establishment|Location : Near Russian Embassy, Khalifa St, Ziyani|City : Abu Dhabi,  UAE|02-6724133
+Al Salam Express Cargo|Location : 509, Al Yousuf Centre, Hamdan St|City : Abu Dhabi,  UAE|02-6260510
+Al Shamali Freight Svce Company LLC|Location : Behind GPO, Karama|City : Dubai,  UAE|04-3354504
+Al Siqat Cargo LLC|Location : Office # 301, 3rd Floor, Al Maktoum Bldg, Near Naif Police Station, Deira|City : Dubai,  UAE|04-2735699
+Al Thurayya Cargo Clearing and Forwarding|Location : Bhnd Emke S/Market, Madinat Zayed|City : Abu Dhabi,  UAE|02-6320650
+Al Zaitoon Shipping Services LLC|Location : 302-9, UAE Enterprises Building, Garhoud|City : Dubai,  UAE|056-3003779
+Alligator Shipping Co LLC|Location : Mezzanine Floor, Awaid Al Otaiba Tower, Electra St|City : Abu Dhabi,  UAE|02-6432841
+Alma Cargo and Clearing LLC|Location : W/House 7, Opp Al Khail Mall, Latifa Bint Hamdan St, Al Quoz-3|City : Dubai,  UAE|04-3790945
+Alta Cargo|Location : Cargo Village Dubai|City : Dubai,  UAE|04-2865525
+Ami International Ltd|Location : Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8838818
+Ana Cargo Management LLC|Location : Al Garhoud|City : Dubai,  UAE|04-2394757
+Anjar Logistics LLC|Location : Opp Dubai Driving School, Near Belhasa Projects, Ras Al Khor|City : Dubai,  UAE|04-3202990
+ANS Movers|City : Dubai,  UAE|050-8850023
+Arabital Shipping LLC|Location : Opp Zadco Gas Co, Khalifa St|City : Abu Dhabi,  UAE|02-6717570
+Avgo Middle East FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5489335
+Ayesha Sky Logistics LLC|Location : Bur Dubai|City : Dubai,  UAE|04-3277275
+Ayezan Freight Srvcs LLC|Location : Karama|City : Dubai,  UAE|04-3575444
+Bab Al Shamas Cargo and Clearing LLC|Location : Office 1, Y-8, Sheikh Hamdan Colony, Karama|City : Dubai,  UAE|04-3978404
+Barwil Abu Dhabi Ruwais LLC|Location : Plot No 77A Sector, Mina W/House Area|City : Abu Dhabi,  UAE|02-6733229
+BBC Cargo Services|Location : 178 Amman St, Al Qusais Industrial Area 3|City : Dubai,  UAE|04-2831100
+Best Cargo Clearing and Forwarding LLC|Location : Bhnd Naif Police Stn, Deira|City : Dubai,  UAE|04-2285841
+Bestline Express Freight LLC|Location : Ras Al Khor|City : Dubai,  UAE|04-2586162
+BH Easy Cargo LLC|Location : Bu Adil W/H# 26 Ras Al Khor, Al Aweer|City : Dubai,  UAE|04-3363290
+Blue Axis Shipping and Freight LLC|Location : Al Waleed Bldg, Rolla St, Bur Dubai|City : Dubai,  UAE|04-3936668
+Blue Line Shipping & Cargo (LLC)|Location : Port Saeed, Deira|City : Dubai,  UAE|04-2367555
+Blueport Shipping and Inspection Services Company LLC|Location : Al Tawhidi Bldg, Next to Spinneys, Bur Dubai|City : Dubai,  UAE|04-3522533
+C M G International Movers & Cargo Services LLC|City : Dubai,  UAE|04-3266397
+C P L Crown Logistics LLC|Location : Cargo Village|City : Dubai,  UAE|04-2834365
+C S Lines Ship Charterers|Location : Hamriya Free Zone|City : Dubai,  UAE|04-2525408
+Cannata World Wide Cargo Services|Location : Umm Ramool, Rashidiya|City : Dubai,  UAE|052-3066510
+Canyon Shipping And Logistics LLC|Location : 103, Silver Land Bldg, Deira|City : Dubai,  UAE|04-2385864
+Caprican International Freight Solutions FZE|Location : Grand Mall, Ajman Free Zone|City : Dubai,  UAE|04-3978669
+Cargo Navigations|Location : Al Qusais|City : Dubai,  UAE|04-2382462
+Cargo Plan International LLC|Location : 104, UAE Enterprises Bldg, Al Garhoud|City : Dubai,  UAE|04-2868186
+Cargotrans Global Forwarding LLC|Location : 5003, Emirates Bldg, Mega Terminal, Cargo Village|City : Dubai,  UAE|04-2834017
+Carriers Mercantile and Marine LLC|Location : M-5, Al Shraifi Centre, Opp GPO, Karama|City : Dubai,  UAE|04-3975388
+CEVA Logistics FZCO|Location : South Zone, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8863600
+Charles Kendall Freight Limited|Location : W/House D28, DAFZA|City : Dubai,  UAE|04-2996554
+City Creek Shipping and Land Transport|Location : Al Aweer|City : Dubai,  UAE|04-3200233
+City Moon Cargo LLC|Location : Warehouse No 12, 15th Street, Opp Zulekha Hospital, Al Qusais Ind Area 1|City : Dubai,  UAE|04-2717505
+Coastline Freight Clearing Services|Location : Oasis Bldg, Opp Sabakha Bus Station, Deira|City : Dubai,  UAE|04-2294915
+Comet Logistics LLC|Location : 403, Al Khaleej Centre, Bur Dubai|City : Dubai,  UAE|04-3592268
+Conquest Worldwide Logistics (CWL)|Location : Dubai Investments Park|City : Jebel Ali,  UAE|04-8856233
+Continental Courier Services|Location : Warehouse No. 12, Behind Bon Café, Steel Mill Road, Umm Ramool|City : Dubai,  UAE|04-2862990
+Cube Freight Solutions DWC LLC|Location : Suite 3020, Act Building, Gate 5, 3rd Floor ,Dubai Air Cargo Village|City : Dubai,  UAE|04-2697569
+Cyber Freight N Logistics LLC|City : Jebel Ali,  UAE|04-8830020
+D G L Movers|City : Dubai,  UAE|04-3572289
+Dana Freight Services LLC|Location : 1102, Al Ameeri Tower, Al Barsha, Dubai|City : Dubai,  UAE|04-2683066
+Dart Global Logistics LLC|Location : 104, Al Ain Centre, Bur Dubai|City : Dubai,  UAE|04-3512166
+DB Schenker LLC|Location : 705, Al Masaood Tower, Airport Rd|City : Dubai,  UAE|04-2956111
+DBG Middle East Freight Services LLC|Location : Deira|City : Dubai,  UAE|04-2067107
+Delta Royal Shipping and Cargo LLC|Location : Office No. 605, One Deira Bldg, Ithra, Deira|City : Dubai,  UAE|04-3336458
+Destinators|Location : Tecom|City : Dubai,  UAE|04-4572860
+DHE International Clearance and Forwarding|Location : Off 2, Entrance 5, 4th Flr, Belhoul Group, Al Garhoud|City : Dubai,  UAE|04-2865981
+Dimension Freight Forwarding|Location : Q1-9, SAIF Zone|City : Sharjah,  UAE|06-5529586
+Direct Shipping - Freight Specialist|Location : Jafza South Zone|City : Jebel Ali,  UAE|04-8860933
+Dono Freight International LLC|Location : 206, Bank Melli Iran Bldg, Khalid Bin Waleed Rd, Bur Dubai|City : Dubai,  UAE|04-3596490
+Door To Door Cargo Packaging|Location : 4, Aatco Warehouses, Al Quoz Indl Area 4|City : Dubai,  UAE|04-3417039
+Dreamway Freight Carriers LLC|Location : Bhnd Dnata, Deira|City : Dubai,  UAE|04-2599308
+DTDC Eurostar Courier and Cargo LLC|Location : Shed# 4, Marakesh Street, Um Ramool|City : Dubai,  UAE|04-2629408
+Dulog LLC|Location : Near Al Maktoum Intl Airport, Dubai Industrial City|City : Dubai,  UAE|04-4430730
+Dynamic Freight and Logistics FZC|Location : SAIF Zone, 144|City : Sharjah,  UAE|06-5575023
+E-Freight International LLC|City : Dubai,  UAE|04-2995504
+E-Logistics LLC|Location : 23A, Zomorrodah Complex, Zabeel Rd, Karama|City : Dubai,  UAE|04-3345060
+Eastern Freight & Logistics FZC|Location : SAIF Zone|City : Sharjah,  UAE|06-5527598
+Eastern Freight Forwarders|Location : Port Saeed, Deira|City : Dubai,  UAE|04-2692081
+Easy Movers Global|Location : SAIF Zone|City : Sharjah,  UAE|056-5747262
+ECU Line Middle East LLC|Location : 7th R/A, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8817696
+Elite Freight Services|Location : Al Ittihad Rd|City : Dubai,  UAE|04-2683366
+Euro Star Shipping Services LLC|Location : Ras Al Khor Indl Area, Aweer|City : Dubai,  UAE|04-3338468
+EV Cargo Global Forwarding LLC|Location : Office 4042, Cargo mega terminal building, Dubai Cargo Village|City : Dubai,  UAE|04-2824449
+Executive Movers Worldwide LLC|Location : 121 B, Al Attar Centre, Trade Centre Rd, Karama|City : Dubai,  UAE|04-3967635
+Expeditors Intl|Location : Electra St|City : Abu Dhabi,  UAE|02-6723003
+Expolanka Freight LLC|Location : Dubai Airport Free Zone|City : Dubai,  UAE|04-2990111
+Three Lines Group of Companies|Location : 104, Al Khabaisi Bldg, Al Khabaisi Area|City : Dubai,  UAE|04-2387880
+Frontline Logistics|Location : Warehouse 2, 26th Street, Al Marabea Road, Al Quoz 3|City : Dubai,  UAE|04-8866685
+Clever Freight Loading and Unloading LLC|Location : M 44, Arabilla Bldg, Hor Al Anz East, Deira|City : Dubai,  UAE|04-2516651
+Tas International Clearing and Forwarding Co LLC|Location : 304, Tameem Bldg, Near Immigration Signal, King Abdul Aziz St, Abu Shagara|City : Sharjah,  UAE|06-5551858
+Advanced Cargo and Shipping LLC|Location : 403, Shipping Tower, Opposite Port Rashid, Al Mina Road, Bur Dubai|City : Dubai,  UAE|04-3938510
+Alpha Ocean Shipping LLC|Location : 301, Shipping Tower, Al Mina Road, Opp Port Rashid, Bur Dubai|City : Dubai,  UAE|04-3966159
+Merit Freight Systems Company LLC|Location : Office 6, Opp Dubai Municipality, Karama|City : Dubai,  UAE|04-3964882
+Oceanfront Shipping LLC|Location : 4M, Al Kifaf Commercial Bldg, Opp Burjuman, Karama|City : Dubai,  UAE|04-3577708
+EGT Shipping And Clearing|Location : Warehouse 9,10, Doha Street, Al Qusais Industrial Area 1|City : Dubai,  UAE|04-2959966
+Blue Pearl Logistics LLC|Location : 114, Near Dutco Group, Jebel Ali Industrial Area 1|City : Dubai,  UAE|04-2207999
+Devcon Shipping|Location : M-14, Mussafah|City : Abu Dhabi,  UAE|02-6440117/ 6440139
+Green Way Cargo|City : Dubai,  UAE|04-5644270
+Ardian Global Express LLC|Location : Warehouse 4, Near Abu Baker Al Siddiqi Metro, Al Khabaisi, Deira|City : Dubai,  UAE|04-3971226
+Abbas Jum Clearing and Forwarding LLC|Location : Bhnd Mini Punjab Rest, Al Fahidi St, Bur Dubai|City : Dubai,  UAE|04-3520082
+Freightman Global Logistics LLC|Location : Office 26, Al fikree Building, Opposite Al Gurair Bus Station, Bur Dubai|City : Dubai,  UAE|04-3577897
+A M A Freight International LLC|City : Dubai,  UAE|04-2714044
+A R International General Trading|Location : 604, Ambergem Tower, Shk Khalifa Rd|City : Ajman,  UAE|06-7450844
+ABC Freight Systems FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5529243
+Abeer Clearing Establishment|Location : Bhnd Dunia Finance, Hamdan St|City : Abu Dhabi,  UAE|02-6728110
+Aboud International Cargo LLC|Location : Deira|City : Dubai,  UAE|04-2667712
+Dynamic Freight and Logistics FZC|Location : SAIF Zone, 144|City : Sharjah,  UAE|06-5575023
+E-Freight International LLC|City : Dubai,  UAE|04-2995504
+E-Logistics LLC|Location : 23A, Zomorrodah Complex, Zabeel Rd, Karama|City : Dubai,  UAE|04-3345060
+Eastern Freight & Logistics FZC|Location : SAIF Zone|City : Sharjah,  UAE|06-5527598
+Eastern Freight Forwarders|Location : Port Saeed, Deira|City : Dubai,  UAE|04-2692081
+Easy Movers Global|Location : SAIF Zone|City : Sharjah,  UAE|056-5747262
+ECU Line Middle East LLC|Location : 7th R/A, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8817696
+Elite Freight Services|Location : Al Ittihad Rd|City : Dubai,  UAE|04-2683366
+Emstar Courier and Logistics|Location : Plot No. 107, Behind Galadari Motor, Al Qusais Industrial Area 4|City : Dubai,  UAE|04-2850010
+Euro Star Shipping Services LLC|Location : Ras Al Khor Indl Area, Aweer|City : Dubai,  UAE|04-3338468
+EV Cargo Global Forwarding LLC|Location : Office 4042, Cargo mega terminal building, Dubai Cargo Village|City : Dubai,  UAE|04-2824449
+Executive Movers Worldwide LLC|Location : 121 B, Al Attar Centre, Trade Centre Rd, Karama|City : Dubai,  UAE|04-3967635
+Expeditors Intl|Location : Electra St|City : Abu Dhabi,  UAE|02-6723003
+Expolanka Freight LLC|Location : Dubai Airport Free Zone|City : Dubai,  UAE|04-2990111
+Express Way Freight LLC|City : Dubai,  UAE|04-2591123
+Fairdeal Group of Companies|Location : Port of Fujairah|City : Fujairah,  UAE|09-2228145
+Far Way Shipping Services|Location : Nasr Square, Deira|City : Dubai,  UAE|04-2286866
+Farah World LLC|Location : Ras Al Khor Indl Area 2|City : Dubai,  UAE|04-3336123
+Fast Movers Worldwide|Location : Bin Sulum Bldg, Near Clock Tower, Deira|City : Dubai,  UAE|04-2624407
+Ferns Shipping and Cargo LLC|Location : 503, Juma Al Majid Bldg, Bank St, Bur Dubai|City : Dubai,  UAE|04-3521999
+FGAG Cargo LLC|Location : Deira|City : Dubai,  UAE|04-2549116
+Fineblast Trading and Logistics LLC|City : Ajman,  UAE|06-7470598
+First Priority Cargo|Location : Al Quoz|City : Dubai,  UAE|04-3881548
+Flair Shipping LLC|Location : Zamorrodah building, Zabeel Road, Karama|City : Dubai,  UAE|04-3355100
+Flash Cargo Systems FZC|Location : Q1-02-73, SAIF Zone|City : Sharjah,  UAE|06-5579845
+Flomic Freight & Logistics|Location : W/H 1, Adnan Mansour Bldg, Marakech St, Rashidiya|City : Dubai,  UAE|04-2861004
+Fly Zone Freight services LLC|Location : Near New Naif Souq, Deira|City : Dubai,  UAE|04-2347805
+Flying Carpet Express|Location : 5 Mina, JAFZA south, Jebel Ali|City : Dubai,  UAE|04-2822268
+Focus Freight International|Location : 606, Al Ghaz Bldg, Nasr Sq, Deria|City : Dubai,  UAE|04-2297552
+Freight Care Logistics LLC|Location : 1009 & 1010, 10th Floor, Mai Towers, Al Qusais|City : Dubai,  UAE|04-2655500
+Freight House International LLC|Location : Al Tar Centre, Karama|City : Dubai,  UAE|04-3371592
+Freight Link Cargo LLC|Location : Office 216, Galaxy Supermarket Bldg, Naif Street, Deira|City : Dubai,  UAE|04-2396852
+Freight Link FZE|City : Sharjah,  UAE|06-5526300
+Freight Reach Services LLC|Location : Near Hamriyah Sea Port, Gate No.7, Deira|City : Dubai,  UAE|055-8992797
+Freight Reach Srvcs LLC|Location : Jebel Ali|City : Jebel Ali,  UAE|04-8870720
+Freight Systems FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5570552
+FreightEX Shipping LLC|Location : Office 202, City Bay Business Centre|City : Dubai,  UAE|04-2690030
+FSL Freight and Logistics|Location : Electra|City : Abu Dhabi,  UAE|02-6780887
+Fujairah Export Import Co|Location : Near Natl Bank of ADH, Next to Fujairah Pharmacy|City : Fujairah,  UAE|09-2222042
+G4S International Logistics (Middle East) FZE|Location : DAFZA|City : Dubai,  UAE|04-2993772
+Golden Ship Marine Services LLC|Location : 6, Al Rostamani Bldg, Ittihad Rd, Al Khabisi Area, Deira|City : Dubai,  UAE|04-2626698
+Golden Space Cargo|Location : ICAD, Mussafah-36, near ICAD residance|City : Abu Dhabi,  UAE|02-5516488
+Gulf Cargo, Commission & Clearing Est|Location : 1st Flr, Old Etisalat Bldg, Khalifa St|City : Abu Dhabi,  UAE|02-6725600
+Gulf Desert General Transport Establishment|Location : Al Quoz|City : Ajman,  UAE|06-7463005
+Gulf Link|City : Sharjah,  UAE|06-5744441
+Gulf Worldwide Logistics LLC|Location : Jebel Ali Free Zone - South|City : Jebel Ali,  UAE|04-8815040
+Gulfway Shipping LLC|Location : Bur Dubai|City : Dubai,  UAE|04-3588275
+H K S Shipping & Logistics Services LLC|Location : 404, Ithraa Plaza, Al Garhoud|City : Dubai,  UAE|04-2595050
+H S L Shipping Services LLC|Location : Al Dana Centre|City : Dubai,  UAE|04-2552440
+Hadiqat Al Alam Trdg|Location : Shed 7, Bldg 18, 28th St, Indl Area 11|City : Sharjah,  UAE|06-5312151
+Haven Shipping FZE|Location : Hamriyah Free Zone|City : Sharjah,  UAE|06-5264335
+Hawa Freight Logistics FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5319282
+Hawk Freight Services FZE|Location : Hawk Logistics Centre, W 28, Dubai Airport Free Zone|City : Dubai,  UAE|04-2980980
+Haz Inspect Freight Services LLC|Location : 1305, Al Saman Tower, Hamdan St|City : Abu Dhabi,  UAE|02-6225564
+Hazinspect ME Cargo LLC|Location : 1021, Cargo Bldg, Dubai World Central|City : Jebel Ali,  UAE|04-8879442
+Heavy Load Freight Services LLC|Location : W/H 19, DIP-ARENCO|City : Jebel Ali,  UAE|04-8854863
+Hi-Quality Freight Services LLC|City : Dubai,  UAE|04-3310990
+HiCorp International|Location : Sultan Business Centre, Oud Metha|City : Dubai,  UAE|04-3577600
+High Aims Freight Services|Location : Bur Dubai|City : Dubai,  UAE|04-3524417
+High Rise Freight Services LLC|Location : Bank St, Bur Dubai|City : Dubai,  UAE|04-3536356
+Highline Shipping & Forwarding L.L.C.|Location : Al Qusais|City : Dubai,  UAE|04-2206692
+Horizon Express Shipping LLC|Location : Office No. 904-75, Saphhire Tower, Deira|City : Dubai,  UAE|056-2280368
+HST Cargo Clearing LLC|Location : Veg Market, Near Port & Customs, Al Aweer|City : Dubai,  UAE|04-3330030
+Hublink Shipping LLC|Location : Office 203, Crystal Building, Sheikh Khalifa Bin Zayed Street, Al Karama|City : Dubai,  UAE|04-2561025
+I C C Cargo LLC|Location : Garhoud|City : Dubai,  UAE|04-2595100
+In Touch Services|Location : Deira|City : Dubai,  UAE|04-2690900
+Instant International Freight LLC|Location : Meena Bazar|City : Dubai,  UAE|04-3522338
+Integrated Freight and Logistics LLC|Location : 406, Queens Court/Jahra Tower, Khalid Bin Al Waleed St, Bur Dubai|City : Dubai,  UAE|04-3599188
+Intellect Shipping Partner LLC|Location : Office No 605, 6th Flr, Al Zahara Bldg, Near Royal Ascot Hotel, Bur Dubai|City : Dubai,  UAE|058-2765105
+International Cargo and Clearing Centre LLC|Location : Bhnd Cars Garage, Deira|City : Dubai,  UAE|04-2974936
+International Maritime LLC|Location : 306, Al Otaiba Business Centre, Al Diyafah St, Satwa|City : Dubai,  UAE|04-3987117
+Iraq Shipping Lines LLC|Location : Abu Hail, Deira|City : Dubai,  UAE|04-2692999
+Iss Worldwide Movers|Location : 515, Office Court Building, Oud Metha Road,|City : Dubai,  UAE|04-3038500
+ITS Logistics LLC|Location : Office No. 309, Block E, Dnata FG-5 Bldg, DAFZA|City : Dubai,  UAE|04-2993000
+Jas Forwarding Worldwide|Location : 102, Al Nahyan Bldg|City : Abu Dhabi,  UAE|02-6718950
+Jatco Freight Services|Location : 104, Al Tawhidi Bldg, Bank St, Bur Dubai|City : Dubai,  UAE|04-3523110
+Jenae Logistics LLC|Location : 4079, Emirates Sky Cargo Bldg, Cargo Mega Terminal, Dubai Cargo Village|City : Dubai,  UAE|04-2824811
+JKK International Freights LLC|Location : WA-1, Unit 3, Dubai Investment Park|City : Jebel Ali,  UAE|04-8854966
+Juma Airlink L.L.C.|Location : Al Nasr Str|City : Abu Dhabi,  UAE|02-6349597
+K R Shipping LLC|Location : 233, Mazda S/Room Bldg, Near Galadari Signal, Dubai-Sharjah Rd|City : Dubai,  UAE|04-2991411
+Kanoo Freight|Location : F-15, Dubai Airport Free Zone|City : Dubai,  UAE|04-2996466
+Kanz Logistics Middle East LLC|Location : Al Ghusais|City : Dubai,  UAE|04-2838445
+Kerabiya Logistics LLC|Location : Office # 4, Al Marabea Street, Al Quoz Industrial Area 4|City : Dubai,  UAE|02-2465139
+Kintetsu World Express ME FZE|Location : 2nd floor, East Wing 2, Dafza|City : Dubai,  UAE|04-2997706
+Kompass International Shipping Services LLC|Location : Opp Fish Market, Karama|City : Dubai,  UAE|04-3347779
+Kuehne + Nagel LLC|Location : C/o KNIBRAKOM, Jebel Ali Free Zone Area|City : Jebel Ali,  UAE|04-8819495
+Laksiri Cargo Services|Location : Bhnd Gift Land, Bur Dubai|City : Dubai,  UAE|04-3536363
+Landslines Shipping And Clearing LLC|Location : 503, Al Safa Tower, Shk Zayed Rd|City : Dubai,  UAE|04-3866060
+Lansburg Shipping (LLC)|Location : Deira|City : Dubai,  UAE|04-2725544
+Laxman Cargo Service LLC|Location : Ras Al Khor, Al Aweer|City : Dubai,  UAE|04-3272665
+LBC Express Inc|Location : Al Karama|City : Dubai,  UAE|04-3574849
+Leader Pack - Leader Freight Forwarders|Location : Deira|City : Dubai,  UAE|04-2693822
+Liberty Logistics LLC|Location : Liberty Bldg, Al Garhoud Rd|City : Dubai,  UAE|04-2831188
+Liner Cargo Services|Location : 28 A, Agents Bldg, Dubai Cargo Village, Deira|City : Dubai,  UAE|04-2822075
+Lintas Freight and Logistics LLC|Location : 203, Corporate Centre, Al Mankhool Area, Bur Dubai|City : Dubai,  UAE|04-3988425
+Lloyd Star Shipping Agency LLC|Location : Al Quoz Indl Area 4|City : Dubai,  UAE|04-3475366
+Lodestar Freight International LLC|Location : 604, Al Zahar Bldg, Khalid Bin Al Walid Rd, Bur Dubai|City : Dubai,  UAE|04-3594924
+Logfret Middle East LLC|Location : TECOM|City : Dubai,  UAE|04-4541604
+Logwin Air & Ocean Middle East LLC|Location : DAFZA|City : Dubai,  UAE|04-2993555
+M and M Transport Logistics Services|Location : J-04, Dubai Airport Free Zone|City : Dubai,  UAE|04-2994229
+Kompass International Shipping Services LLC|Location : Opp Fish Market, Karama|City : Dubai,  UAE|04-3347779
+Kuehne + Nagel LLC|Location : C/o KNIBRAKOM, Jebel Ali Free Zone Area|City : Jebel Ali,  UAE|04-8819495
+Laksiri Cargo Services|Location : Bhnd Gift Land, Bur Dubai|City : Dubai,  UAE|04-3536363
+Landslines Shipping And Clearing LLC|Location : 503, Al Safa Tower, Shk Zayed Rd|City : Dubai,  UAE|04-3866060
+Lansburg Shipping (LLC)|Location : Deira|City : Dubai,  UAE|04-2725544
+Laxman Cargo Service LLC|Location : Ras Al Khor, Al Aweer|City : Dubai,  UAE|04-3272665
+LBC Express Inc|Location : Al Karama|City : Dubai,  UAE|04-3574849
+Leader Pack - Leader Freight Forwarders|Location : Deira|City : Dubai,  UAE|04-2693822
+Liberty Logistics LLC|Location : Liberty Bldg, Al Garhoud Rd|City : Dubai,  UAE|04-2831188
+Liner Cargo Services|Location : 28 A, Agents Bldg, Dubai Cargo Village, Deira|City : Dubai,  UAE|04-2822075
+Lintas Freight and Logistics LLC|Location : 203, Corporate Centre, Al Mankhool Area, Bur Dubai|City : Dubai,  UAE|04-3988425
+Lloyd Star Shipping Agency LLC|Location : Al Quoz Indl Area 4|City : Dubai,  UAE|04-3475366
+Lodestar Freight International LLC|Location : 604, Al Zahar Bldg, Khalid Bin Al Walid Rd, Bur Dubai|City : Dubai,  UAE|04-3594924
+Logfret Middle East LLC|Location : TECOM|City : Dubai,  UAE|04-4541604
+Logwin Air & Ocean Middle East LLC|Location : DAFZA|City : Dubai,  UAE|04-2993555
+M and M Transport Logistics Services|Location : J-04, Dubai Airport Free Zone|City : Dubai,  UAE|04-2994229
+MAC World Logistic|Location : Exchange Tower, Business Bay|City : Dubai,  UAE|04-3389068
+MAF - Mass Allied Freighters|Location : W/H 20, Al Reem Warehouses, DIP 1|City : Jebel Ali,  UAE|04-8850880
+Main Deck Movers LLC|Location : M 06, Dar Al Rigga Bldg, Rigga Str, Port Saeed Area|City : Dubai,  UAE|04-2957818
+Manuport Logistics|Location : 107, Makin Bldg, Airport Rd|City : Dubai,  UAE|04-2594884
+Marcopolo Freight Services LLC|Location : M 03, Al Wasl Building, Shk Zayed Rd|City : Dubai,  UAE|04-3806663
+Mars Express Cargo and Packing|Location : Mussafah 37|City : Abu Dhabi,  UAE|02-5548822
+MASS International Freight LLC|Location : Office No. 108, Zakhir Business Center, Opposite to KFC, Hor Al Anz East|City : Dubai,  UAE|04-2879866
+Master Global Logistics LLC|Location : Al Qusais|City : Dubai,  UAE|04-2670399
+Matrix Freight Contracting|Location : 5th Flr, Abu Dhabi Islamic Bank Bldg, Najda St|City : Abu Dhabi,  UAE|02-6343969
+Matski Maritime LLC|Location : Deira|City : Dubai,  UAE|04-2340656
+Max Line LLC|Location : M 03, Al Kazim Building, Al Garhoud|City : Dubai,  UAE|04-2822022
+MBA Shipping Agencies LLC|Location : Opp Chillis Rest, Al Garhoud|City : Dubai,  UAE|04-2957905
+Mega City LLC|Location : Deira|City : Dubai,  UAE|04-2830031
+Mega Star Movers LLC|Location : 67, 26th St, Al Quoz Indl Area 4|City : Dubai,  UAE|04-3466171
+Mega Star Shipping Services LLC|Location : Ras Al Khor|City : Dubai,  UAE|04-3336595
+Melbourne Cargo & Clearing|City : Dubai,  UAE|04-3266111
+Mercury Freight Fowarders|Location : SAIF Zone|City : Sharjah,  UAE|06-5586071
+Meridian Freight Links Logistics LLC|Location : Jumeirah Beach Rd|City : Dubai,  UAE|04-3273333
+Metco Trans|City : Sharjah,  UAE|06-5526011
+Midsea Shipping Company LLC|Location : 303, Al Nayli Bldg, Abu Hail Rd|City : Dubai,  UAE|04-2665811
+Midway Logistics LLC|Location : Dubai Cargo Village|City : Dubai,  UAE|04-2821333
+Millenium Air Cargo LLC|Location : Opp Hyatt Regency, Al Khaleej Rd, Deira|City : Dubai,  UAE|04-2731021
+Mirage Shipping Agencies LLC|Location : Al Mankhool Area, Bur Dubai|City : Dubai,  UAE|04-3988107
+Mirdef Cargo|Location : Bhnd Al Mansoor Video, Bur Dubai|City : Dubai,  UAE|04-3554497
+Omega Cargo LLC|Location : Nasr Square, Deira|City : Dubai,  UAE|04-2223038
+Oracle Freight Logistics|Location : 2049, Old Agents Bldg, Cargo Village|City : Dubai,  UAE|04-2820652
+Orbit Xpress|Location : Opp Zulekha Hospital, Qusais Indl Area 1|City : Dubai,  UAE|04-2679718
+Oringa Marine Services LLC|Location : Deira|City : Dubai,  UAE|04-2599142
+Orion International Shipping LLC|Location : 3rd Flr, Mohebi Aviation Bldg, Al Fahidi St, Bur Dubai|City : Dubai,  UAE|04-3533282
+Overseas Development LLC - International Freight Forwarders|Location : 1st Flr, Hassa Tower, Tourist Club Area|City : Abu Dhabi,  UAE|02-6767544
+Ozone Cargo LLC|Location : Bur Dubai|City : Dubai,  UAE|04-2222799
+Panalpina Gulf LLC|Location : Room 143, SA Freight Centre, West Cargo|City : Sharjah,  UAE|06-5581736
+Pentagon Freight Services LLC|Location : Bhnd 4x4, Al Garhoud|City : Dubai,  UAE|
+Petrasco Middle East LLC|Location : Near R/A 12, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8830118
+Polestar International Shipping LLC|Location : Office 507, Umm Hurair Building. Karama|City : Dubai,  UAE|04-3708007
+Precious Shipping|Location : Al Jazira Bldg, Deira|City : Dubai,  UAE|04-2281424
+Prem Dutt Logistics International LLC|Location : W/House G-10, Dubai Cargo Village|City : Dubai,  UAE|04-2869343
+Premium Freight Services|Location : 102, Travel Market Bldg, Muraqqabat St, Deira|City : Dubai,  UAE|04-2660743
+Prime Shipping Agency LLC|Location : 206, Hussain Al Sayed Bldg, Opp Indian High School, Al Garhoud|City : Dubai,  UAE|04-2824224
+ProConnect Integrated Logistics|Location : Jebel Ali South (JAFZA)|City : Dubai,  UAE|054-9986032
+Punhani Cargo Transport LLC|Location : 503, 1-10, Morocco Cluster, Intl City|City : Dubai,  UAE|04-4474784
+Qafila FZ LLC|Location : Internet City|City : Dubai,  UAE|04-5233933
+R S L Freight Co LLC|Location : Karama|City : Dubai,  UAE|04-3962555
+Rais Hassan Saadi LLC|Location : Opp Ramada Hotel, Bur Dubai|City : Dubai,  UAE|04-3521515
+Rajab Cargo Services Establishment|Location : G Flr, Bhnd ADNOC, Opp Madinat Zayed, Muroor St|City : Abu Dhabi,  UAE|02-6335919
+Rapid Freight International LLC|Location : Rashidiya|City : Dubai,  UAE|04-2860672
+Rapid Gulf Shipping and Freight Services LLC|Location : Dubai Air Cargo Terminal|City : Dubai,  UAE|04-2833570
+Rapid Kate LLC|Location : Opp Indian High School, Garhoud|City : Dubai,  UAE|04-2828185
+Red Lines International Movers LLC|Location : UBC Building, Banks Street, Bur Dubai|City : Dubai,  UAE|04-3596160
+Right Way Shipping LLC|Location : Near Gold Centre, Al Yarmook|City : Sharjah,  UAE|06-5669129
+Rightway Freight Services LLC|Location : Bhnd Cars Garage, Opp Hamarain Centre, Al Khabissi, Deira|City : Dubai,  UAE|04-2664588
+RK Cargo Services LLC|Location : Ras Al Khor|City : Dubai,  UAE|04-3435730
+Rollball International FZE|Location : Between R/A 6 & 7, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8819500
+Rover Logistic Freight|Location : Bhnd Kanoo, 3rd I/Change, Al Quoz Indl Area|City : Dubai,  UAE|04-3404610
+Royal Cargo LLC|Location : Plot No: MO0241, Near Round About No: 6, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8818000
+Royal Freight FZC|Location : Q1-09 - 80/A, SAIF Zone|City : Sharjah,  UAE|06-5527722
+Royal Links Cargo LLC|City : Dubai,  UAE|04-4573216
+Ruby Cargo Service|Location : Near Rolla Park|City : Sharjah,  UAE|06-5615458
+S G C Shipping Services LLC|City : Dubai,  UAE|04-3200337
+S R D General Trading|Location : Deira|City : Dubai,  UAE|04-2556888
+S S M Tourism & Cargo LLC|City : Dubai,  UAE|04-2834599
+Safe Express Cargo LLC|Location : Qusais 4|City : Dubai,  UAE|04-2639421
+Safe Move Express|Location : Near Musalla Post Office, Al Fahidi Rd, Bur Dubai|City : Dubai,  UAE|04-3592910
+Safina Cargo|Location : Near Al Futtaim Mosque, Deira|City : Dubai,  UAE|04-2731126
+Sai Tech Line Cargo LLC|Location : 613, The Atrium Center, Khalid Bin Waleed Road|City : Dubai,  UAE|04-3587799
+Saif Al Noor International Shipping LLC|Location : Target Bldg, Opp Naeem Pharmacy, Deira|City : Dubai,  UAE|04-2283012
+Sama Alreem Customs Broker|Location : Dubai Flower Center, Airport Road|City : Dubai,  UAE|052-8886476
+Scan Shipping LLC|Location : Makeen Bldg, Airport Rd|City : Dubai,  UAE|04-2010900
+Scope Clearing and Forwarding|City : Dubai,  UAE|04-3530807
+Sea Bird Shipping Agency LLC|Location : 304, Computer Depot Bldg, Bur Dubai|City : Dubai,  UAE|04-3511441
+Sea Express Shipping Lines Ltd|Location : Deira|City : Dubai,  UAE|04-2680266
+Sea Horse Shipping LLC|Location : Rafa building, Opposite Police Station, Bur Dubai|City : Dubai,  UAE|04-5140626
+Sea Rider Shipping & Freight Forwarding Co LLC|Location : Garhoud|City : Dubai,  UAE|04-2955632
+Seagull Shipping LLC|Location : 223, Dubai Real Estate Centre, Al Meena Rd|City : Dubai,  UAE|04-3457800
+Sealine Shipping and Removals|Location : 4th I/Change, Al Quoz|City : Dubai,  UAE|04-3404037
+Seascape Shipping Services LLC|Location : S-19, Rawdat Al Karama Centre, Karama|City : Dubai,  UAE|04-3973187
+Seaworld Shipping and Logistics LLC|Location : 404, Atrium Centre, Bank St, Bur Dubai|City : Dubai,  UAE|04-3590222
+Select Air Cargo Management LLC|Location : 104, Al Ain Centre, Bur Dubai|City : Dubai,  UAE|04-3510903
+Servotech Shipping & Logistics LLC|Location : Bur Dubai|City : Dubai,  UAE|04-3545442
+Sharaf Logistics|Location : 2nd Floor, Sharaf Travel Bldg, Khalid Bin Al Waleed Rd, Bur Dubai|City : Dubai,  UAE|04-3377177
+Shipping Solution Services JLT|Location : JLT|City : Dubai,  UAE|04-3686564
+Shipping Trading and Lighterage Company (STALCO) LLC|Location : Near R/A 7, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-3934666
+Sidra Cargo LLC|Location : Al Khabeesi, Al Qusais|City : Dubai,  UAE|04-2528166
+Sky Bridge Freight Solutions LLC|City : Jebel Ali,  UAE|055-9442907
+Sky Express International LLC|Location : Opp Hamarain Centre, Near Cars Taxi, Al Kabeesi, Deira|City : Dubai,  UAE|04-2338400
+Sky Jet Shipping and Logistics|Location : 604, Dr Fernandes Bldg, Opp Palm Beach Hotel, Bur Dubai|City : Dubai,  UAE|04-3939298
+Skylark Shipping and Clearing LLC|Location : 213, Al Attar Center, Opp Spinney's, Karama|City : Dubai,  UAE|04-3970828
+Skysea Freight International|Location : Shed No 5B, AT63/6, Al Khabeesi St, Deira|City : Dubai,  UAE|04-2666571
+Solarline Freight LLC|Location : Ras Al Khor|City : Dubai,  UAE|04-3207232
+Speed Line Freight Forwarding LLC|Location : Office No.6 V17, Russia Cluster, International City|City : Dubai,  UAE|04-4542791
+Spl Logistics Solutions LLC|Location : Al Mafraq|City : Abu Dhabi,  UAE|02-5824006
+Sprint Delivery Services LLC|Location : Office 7, Al Hosan Building, International City 2|City : Dubai,  UAE|04-5650502
+Suhara Logistics|Location : W/House 2, Between R/A 6 & 7, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8819595
+Sunil Ghansham Shipping LLC|Location : Bur Dubai|City : Dubai,  UAE|04-3947491
+Super Trans Cargo Forwarding Services|Location : Bldg. 64, Mussafah East 12|City : Abu Dhabi,  UAE|02-5591116
+Syon Logistics|Location : Garhoud|City : Dubai,  UAE|04-2823444
+Taurus International Cargo Co LLC|Location : Mussafah Shabia 10, Near UAE Exchange|City : Abu Dhabi,  UAE|02-5528588
+TCS Express Worldwide LLC|Location : Fardous Bldg, Salam St|City : Abu Dhabi,  UAE|02-6778600
+Tenessee Cargo Services LLC|Location : 701, Said Abdullah Nasser Bldg, Opp City Terminal|City : Abu Dhabi,  UAE|02-6799224
+Teofila Logistics LLC|City : Dubai,  UAE|04-3709006
+Three Star Shipping Company LLC|Location : 102, Near Sana Fashion, Al Fattan Bldg, Karama|City : Dubai,  UAE|04-3367536
+Time Cargo Logistics|Location : 108, Sara Bldg, Near Al Tayer S/Room, Garhoud|City : Dubai,  UAE|04-2869295
+Time Global Shipping|Location : Al Makhawi Building, Oud Mehtha|City : Dubai,  UAE|04-3254878
+Time World Freight LLC|Location : Al Fattan Plaza, Garhoud|City : Dubai,  UAE|04-2868928
+Total Shipping LLC|City : Dubai,  UAE|04-3363306
+Trans Gulf Freight|Location : Shabia M10, Musaffah|City : Dubai,  UAE|02-6447793
+Trans Net LLC|Location : B 5, New Agents Bldg, Cargo Village, Al Garhoud|City : Dubai,  UAE|04-2828186
+Trans Ocean Freight and Transport LLC|Location : 102, Al Jurf Plaza, Ajman Free Zone Rd, Mushrif Commercial Area|City : Ajman,  UAE|06-7314945
+Trans Orient Logistics LLC|Location : Zabeel Bldg, Umm Hurair Rd|City : Dubai,  UAE|04-3355205
+Transemuz Freight FZE|Location : R/A 13, Opp To Lipton, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8813246
+Transitics Shipping Services FZE|City : Dubai,  UAE|04-2568480
+Transmarine Middle East FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5573548
+Triangle Shipping Agencies Company LLC|Location : M Flr, Mashreqbank Bldg, Khor Branch, Bur Dubai|City : Dubai,  UAE|04-3535703
+Triburg Freight Services and Supp Chain|Location : Between R/A 6 & 7, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8815024
+Triple Crown Shipping and Logistics LLC|Location : 205, B-Block, Arenco Bldg, Karama|City : Dubai,  UAE|04-3355563
+Trium Logistics LLC|Location : 210, Al Attar Shopping Centre, Karama|City : Dubai,  UAE|04-3354929
+Ukas (FZC)|Location : 1501-A, Swiss Tower, Cluster Y, Jumeirah Lake Towers|City : Dubai,  UAE|04-4230804
+UKR Shipping|Location : Near Emirates Towers Metro Station, Shaikh Zayed Road|City : Dubai,  UAE|04-3888014
+Ultramarine Shipping Services LLC|Location : 403, Al Jahra Bldg, Khalid Bin Waleed St, Bur Dubai|City : Dubai,  UAE|04-3276882
+UNASCO LLC (Union Natl Air, Land and Sea Shipping Co)|Location : Bhnd Emirates Glass, 4th I/Change, Al Quoz|City : Dubai,  UAE|04-3479967
+Unidos Global Logistics LLC|Location : Warehouse #AD01, Jebel Ali Free Zone|City : Dubai,  UAE|04-8875288
+Union Logistics FZE|Location : J-06, Dubai Airport FZE|City : Dubai,  UAE|04-2996565
+Unitrans Limited|Location : A3-55, SAIF Zone|City : Sharjah,  UAE|06-5570031
+Vanguard Logistics Services LLC (Sales Office)|Location : 402, Al Safa Bldg, Opp Mussallah Tower, Bur Dubai|City : Dubai,  UAE|04-3545424
+Vasco Global Maritime LLC|Location : 405, Al Abbas Bldg, Khalid Bin Al Waleed Rd, Bur Dubai|City : Dubai,  UAE|04-3598300
+VSSL Shipping Services Co LLC|Location : Near Al Mulla Plaza|City : Dubai,  UAE|04-4385535
+Water Ways Middle East Logistics (WME)|Location : Opp Zayed University, Muroor Rd|City : Abu Dhabi,  UAE|02-4458700
+Watson Logistics LLC|Location : W/House 50, Choithram Compund, 4th I/Change, Al Quoz|City : Dubai,  UAE|04-3472023
+Weiss-Rohlig UAE LLC|Location : Al Shamsi Bldg, Oud Metha Rd, Karama|City : Dubai,  UAE|04-3372340
+Western Express Freight LLC|City : Dubai,  UAE|04-3387600
+Westport Shipping Services LLC|Location : M 03, JVC Bldg, Karama|City : Dubai,  UAE|04-3377160
+Wilhelmsen Ship Service|Location : Next to SNK Bearing, Jebel Ali Free Zone|City : Jebel Ali,  UAE|04-8818111
+Winners Marine Services|Location : Bhnd Rashid Hospital, Oud Metha Rd|City : Dubai,  UAE|04-3368181
+World Class Freight LLC|Location : Suite F, 4039, Dubai Cargo Village|City : Dubai,  UAE|04-2834565
+World Vision Freight Systems FZE|Location : SAIF Zone|City : Sharjah,  UAE|06-5234125
+Zain Al Amani Transport LLC|Location : M-07, Hamad Sultan Saif Building, Abu Hail East|City : Dubai,  UAE|04-2253273
+Zebra Mechanical Equipment Trading|Location : 305, Dar Al Nahda Building, Hor Al Anz East, Dubai|City : Dubai,  UAE|04-2589880
